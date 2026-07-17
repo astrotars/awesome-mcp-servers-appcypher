@@ -419,6 +419,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🆔 <a name="identity"></a>Identity
 
+- [Clerk](https://clerk.com/docs/guides/ai/mcp/clerk-mcp-server) - Official MCP server for Clerk: SDK snippets and implementation patterns for auth and user management.
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
